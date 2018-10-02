@@ -51,7 +51,7 @@ h1 a:hover {
     color: #a3730c;
 }
 
-/*---------SECTION--------*/
+/*---------SECTION-HOME--------*/
 
 .video-wrapper {
     position: relative;
@@ -107,6 +107,69 @@ hr {
     border-radius: 10px;
 }
 
+/*---------SECTION-ABOUT--------*/
+
+.about-info h1 {
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+.band-info {
+    text-align: center;
+}
+
+.band-pic {
+    max-height: 400px;
+    max-width: 315px;
+    border-radius: 10px;
+}
+
+.band-info p {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.about-hr {
+    padding-bottom: 30px;
+}
+
+.media-object {
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.media-heading {
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+.rock-hall {
+    text-decoration: underline;
+    color: #fab824;
+}
+
+.rock-hall:hover {
+    color: #9f6d00;
+}
+
+.neg-space {
+    padding: 50px;
+}
+
+.wikiLink {
+    text-decoration: underline;
+    color: #fab824;
+}
+
+.wikiLink:hover {
+    color: #9f6d00;
+}
+
+.media3 {
+    padding-bottom: 60px;
+}
 
 /*---------FOOTER--------*/
 
@@ -153,8 +216,8 @@ hr {
     .best-selling-album h1 {
         font-size: 24px;
     }
-    
-    .musicPlayer h1{
+
+    .musicPlayer h1 {
         font-size: 30px;
     }
 }
@@ -169,8 +232,8 @@ hr {
     .best-selling-album h1 {
         font-size: 18px;
     }
-    
-    .musicPlayer h1{
+
+    .musicPlayer h1 {
         font-size: 24px;
     }
 }
