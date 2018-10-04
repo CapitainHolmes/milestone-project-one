@@ -9,6 +9,7 @@ body {
 
 
 
+
 /*---------HEADING--------*/
 
 .icon-bar {
@@ -170,6 +171,31 @@ hr {
 .media3 {
     padding-bottom: 60px;
 }
+
+/*---------SECTION-BOOKINGS--------*/
+
+h4 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.form-control {
+    max-width: 50%;
+}
+
+.venueType select {
+    font-size: 12px;
+}
+
+.date-picker {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: #ccc;
+    border-radius: 10px;
+}
+
+
+
 
 /*---------FOOTER--------*/
 
