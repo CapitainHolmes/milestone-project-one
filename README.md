@@ -39,8 +39,8 @@ On this page I have used multiple links, such as:
 Footer Links applied to all pages:
 
 - [Facebook](https://www.facebook.com/Nirvana)
-- [Twitter](ttps://twitter.com/Nirvana)
-- [Youtube](https://www.youtube.com/user/NirvanaVEVO). (All YouTube videos have been copied from here)
+- [Twitter](https://twitter.com/Nirvana)
+- [Youtube](https://www.youtube.com/user/NirvanaVEVO) (All YouTube videos have been copied from here)
 
 The Image [gig-poster] was taken and saved from googled images. 
 
