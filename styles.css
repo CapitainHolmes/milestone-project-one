@@ -119,19 +119,23 @@ hr {
     text-align: center;
 }
 
+.band-info p {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .band-pic {
     max-height: 400px;
     max-width: 315px;
     border-radius: 10px;
 }
 
-.band-info p {
-    padding-top: 30px;
+.about-hr {
     padding-bottom: 30px;
 }
 
-.about-hr {
-    padding-bottom: 30px;
+.artist-info {
+    padding-bottom: 80px;
 }
 
 .media-object {
@@ -141,9 +145,8 @@ hr {
     margin: auto;
 }
 
-.media-heading {
+.artist-heading {
     padding-top: 50px;
-    padding-left: 25px;
 }
 
 .rock-hall {
@@ -155,10 +158,6 @@ hr {
     color: #9f6d00;
 }
 
-.neg-space {
-    padding: 50px;
-}
-
 .wikiLink {
     text-decoration: underline;
     color: #fab824;
@@ -168,9 +167,23 @@ hr {
     color: #9f6d00;
 }
 
-.media3 {
-    padding-bottom: 60px;
+/*---------SECTION-MUSIC--------*/
+
+.top-songs h1 {
+    text-align: center;
+    padding-bottom: 30px;
 }
+
+.top-songs iframe {
+    padding-bottom: 40px;
+}
+
+.vid-wrapper {
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+}
+
 
 /*---------SECTION-BOOKINGS--------*/
 
@@ -190,7 +203,7 @@ h4 {
 .date-picker {
     padding-top: 20px;
     padding-bottom: 15px;
-    color: #ccc;
+    color: #555;
     border-radius: 10px;
 }
 
