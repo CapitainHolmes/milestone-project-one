@@ -13,6 +13,8 @@ This website is aimed at not just loyal fans but new ones, looking for infomatio
 It is easily navigated with an easily understandable navigation bar. All infomation is displayed clear and easy to see. All media such as "< img >" and "<iframe>" has been sized accordingly.
 
 
+All Mock-Ups and planning I did for this project can be found here [Mock-Ups](https://github.com/CapitainHolmes/milestone-project-one/tree/master/mock-ups).
+
 ## FEATURES
 
 All pages on this site include the "Header" and "Footer". The Header consists of the navigation bar and logo. The Footer has links to Official Nirvana social media pages and "Terms/Privacy" pages.
@@ -84,7 +86,14 @@ Here are links to each techonology I have used:
 ## TESTING
 
 I conducted tests on a wide selction of browsers/devices to ensure User's can successfully use the site and it's features.
-These tests included browsers:
+
+Tests conducted:
+
+- Checking the responsiveness
+- Making sure each link worked porperly
+- All images resize appropriately 
+
+These tests included browsers/devices:
 
 - Edge - laptop
 - Mozilla - laptop
@@ -94,9 +103,9 @@ These tests included browsers:
 
 ## DEPLOYMENT
 
-Whenever I thought that a page was finished, I deployed it to "**GitHub Pages**". I also deployed whenever things were changed/deleted.
+Whenever I thought that a page was finished, I deployed it to "**GitHub Pages**" using version controls found here - [GitHub](https://github.com/evennia/evennia/wiki/Version-Control).
 
-Can all be found here [milestone-project-one](https://github.com/CapitainHolmes/milestone-project-one)
+All my commits and project be found here [milestone-project-one](https://github.com/CapitainHolmes/milestone-project-one).
 
 ## CREDIT
 
