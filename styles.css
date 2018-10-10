@@ -184,6 +184,10 @@ hr {
     margin: 0 auto;
 }
 
+.video-col > iframe {
+    margin: auto;
+}
+
 
 /*---------SECTION-BOOKINGS--------*/
 
