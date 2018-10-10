@@ -10,7 +10,7 @@ Although being a more modern band, I changed some key parts of infomation to fit
 For this project I have used the Framework known as "[Bootstrap 3.3.7](http://getbootstrap.com/docs/3.3/)" for the layout and added my own CSS for the look of the website.
 
 This website is aimed at not just loyal fans but new ones, looking for infomation and a chance to book their favourite band for venues, such as "Birthdays".
-It is easily navigated with an easily understandable navigation bar. All infomation is displayed clear and easy to see. All media such as "<img>" and "<iframe>" has been sized accordingly.
+It is easily navigated with an easily understandable navigation bar. All infomation is displayed clear and easy to see. All media such as "< img >" and "<iframe>" has been sized accordingly.
 
 
 ## FEATURES
@@ -32,7 +32,7 @@ This is the opening page, where fans are will notice a video that plays automati
 
 On this page I have used multiple links, such as:
 
-- [Youtbe](https://www.youtube.com/embed/pkcJEvMcnEg?rel=0&autoplay=1)
+- [Youtube](https://www.youtube.com/embed/pkcJEvMcnEg?rel=0&autoplay=1)
 - [Spotify](https://open.spotify.com/embed/album/1To7kv722A8SpZF789MZy7)
 - [Image](https://images.genius.com/4465191b365db223ee48932553c77c6c.559x559x1.jpg)
 
@@ -83,7 +83,7 @@ Here are links to each techonology I have used:
 
 ## TESTING
 
-I conucted tests on a wide selction of browsers/devices to ensure User's can successfully use the site and it's features.
+I conducted tests on a wide selction of browsers/devices to ensure User's can successfully use the site and it's features.
 These tests included browsers:
 
 - Edge - laptop
